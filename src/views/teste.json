@@ -1,0 +1,32 @@
+{
+  "itens":[  
+    {
+        "id" : 1 ,
+        "nome" : "Trello",
+        "descricao" : "Atividades de aprendizado front-end",
+        "status" : "Em andamento",
+        "tarefas" :[
+            {
+            "nome_tarefa" : "Atividade trello",
+            "descricao_tarefa" : "construção de um trello usando vue e bootstrap",
+            "status_atividade" : "Em andamento"
+            }
+        ]
+    },
+    {
+        "id" : 2 ,
+        "nome" : "Super Mercado",
+        "descricao" : "miojo",
+        "status" : "Em andamento",
+        "tarefas" :[
+            {
+            "nome_tarefa" : "comprar miojo",
+            "descricao_tarefa" : "não esquecer a cerveja",
+            "status_atividade" : "Em andamento"
+
+            }
+        ]
+    }
+]
+}
+
